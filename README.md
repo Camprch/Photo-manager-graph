@@ -1,7 +1,7 @@
 # Photo-manager
 
 ## 🎯 Objectif
-Outil CLI pour trier et copier des photos depuis un dossier source vers un dossier destination (par date, etc.).
+Outil CLI pour renommer, redimensionner, compressser, convertir des photos depuis un dossier source vers un dossier destination (par date, etc.).
 
 ## 🚀 Lancer sur Windows 11
 ```bash
